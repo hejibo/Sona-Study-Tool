@@ -2,5 +2,5 @@
 #
 # Run 'pip install -r requirements.txt' to install these dependencies.
 #
-requests>=2.6.2
-BeautifulSoup4>=4.2.0
+requests==2.6.2
+BeautifulSoup4==4.2.0
